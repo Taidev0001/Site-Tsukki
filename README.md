@@ -39,6 +39,12 @@ Site criado apenas para treinamento de html, css e java script
             <li>Frio</li>
             <li>Estratégico</li>
         </ul>
+          <!--Listas ordenadas-->
+        <ol>
+            <li>Inteligente</li>
+            <li>Dedicado</li>
+            <li>Responsavel</li>
+        </ol>
     </doby>
 </head>
 
