@@ -68,6 +68,14 @@ Site criado apenas para treinamento de html, css e java script
                 <td>Levantador</td>
             </tr>
         </table>
+        <!--Tag div-->
+        <div>
+            <h2>Curiosidas:</h2>
+            <p>Hiperfoco em dinossauros</p>
+            <p>Gosta de música clássica</p>
+            <a href="https://i.pinimg.com/736x/55/90/f4/5590f411470ec27c3687e84b16c2abeb.jpg" target="_blank">Dinossauro
+                tocando piano</a>
+        </div>
     </doby>
 </head>
 
