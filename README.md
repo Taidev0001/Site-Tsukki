@@ -45,6 +45,29 @@ Site criado apenas para treinamento de html, css e java script
             <li>Dedicado</li>
             <li>Responsavel</li>
         </ol>
+         <!--Tabelas-->
+        <table>
+            <tr>
+                <th>Camisa:</th>
+                <th>Nome:</th>
+                <th>Posição:</th>
+            </tr>
+            <tr>
+                <td>11</td>
+                <td>Tsukishima kei</td>
+                <td>Bloqueio</td>
+            </tr>
+             <tr>
+                <td>10</td>
+                <td>Hinata Shoyo</td>
+                <td>Ataque</td>
+            </tr>
+             <tr>
+                <td>09</td>
+                <td>Kageyama Tobio</td>
+                <td>Levantador</td>
+            </tr>
+        </table>
     </doby>
 </head>
 
